@@ -1,0 +1,15 @@
+[submodule "C-20"]
+	path = C-20
+	url = git@github.com:other-repositories/C-20.git
+[submodule "MetaProgrammingTraining"]
+	path = MetaProgrammingTraining
+	url = git@github.com:other-repositories/MetaProgrammingTraining.git
+[submodule "AsynsPractice"]
+	path = AsynsPractice
+	url = git@github.com:other-repositories/AsynsPractice.git
+[submodule "BoostPractise"]
+	path = BoostPractise
+	url = git@github.com:other-repositories/BoostPractise.git
+[submodule "Coroutines_And_Asio_Practise"]
+	path = Coroutines_And_Asio_Practise
+	url = git@github.com:other-repositories/Coroutines_And_Asio_Practise.git
