@@ -13,3 +13,6 @@
 [submodule "Coroutines_And_Asio_Practise"]
 	path = Coroutines_And_Asio_Practise
 	url = git@github.com:other-repositories/Coroutines_And_Asio_Practise.git
+[submodule "Connections-of-all-patterns"]
+	path = Connections-of-all-patterns
+	url = git@github.com:other-repositories/Connections-of-all-patterns.git
